@@ -1,0 +1,11 @@
+.vs/
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]in/
+[Ll]ogs/
+[Bb]uild/
+[Uu]ser[Ss]ettings/
+*.csproj
+*.sln*
+.vs/ echo [Ll]ibrary/ echo [Tt]emp/ echo [Oo]bj/ echo [Bb]in/ echo [Ll]ogs/ echo [Bb]uild/ echo [Uu]ser[Ss]ettings/ echo *.csproj echo *.sln*
